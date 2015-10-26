@@ -89,6 +89,7 @@
     "no-with": 2,
     "one-var": [2, { "initialized": "never" }],
     "quotes": [2, "single", "avoid-escape"],
+    "quote-props": [2, "as-needed"],
     "radix": 2,
     "semi": [2, "always"],
     "semi-spacing": [2, { "before": false, "after": true }],
