@@ -1,4 +1,10 @@
-2015-11-26, Version 1.0.2
+2016-04-06, Version 2.0.0
+=========================
+
+ * Update eslint to 2.x (Sam Roberts)
+
+
+2015-11-25, Version 1.0.2
 =========================
 
  * enforce maximum line length (Sam Roberts)
