@@ -1,3 +1,9 @@
+Copyright (c) IBM Corp. 2015,2016. All Rights Reserved.
+Node module: eslint-config-strongloop
+This project is licensed under the Artistic License 2.0, full text below.
+
+--------
+
 The Artistic License 2.0
 
 Copyright (c) 2000-2006, The Perl Foundation.
@@ -199,3 +205,6 @@ LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+--------
