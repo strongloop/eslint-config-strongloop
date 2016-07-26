@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-strongloop",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "StrongLoop core coding conventions",
   "main": "index.js",
   "scripts": {
