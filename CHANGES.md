@@ -1,3 +1,9 @@
+2016-08-16, Version 2.1.0
+=========================
+
+ * Add global 'use strict' requirements (Kevin Delisle)
+
+
 2016-05-06, Version 2.0.1
 =========================
 
